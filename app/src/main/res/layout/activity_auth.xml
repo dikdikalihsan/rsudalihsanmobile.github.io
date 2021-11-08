@@ -11,8 +11,8 @@
     tools:context=".AuthActivity">
 
     <ImageView
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:src="@drawable/logo_rsud_alihsan"
         android:layout_marginBottom="40dp"/>
 
@@ -22,7 +22,7 @@
         android:text="RSUD AL IHSAN PROV. JABAR"
         android:textSize="22sp"
         android:textStyle="bold"
-        android:textColor="@color/design_default_color_on_primary"/>
+        android:textColor="#4E6A0F"/>
 
     <Button
         android:id="@+id/btnSignInAuth"
